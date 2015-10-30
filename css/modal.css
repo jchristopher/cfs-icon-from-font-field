@@ -6,6 +6,9 @@
 .notes + .field > .cfsifff-wrapper {
 	padding-top:0;
 }
+.notes + .field > .cfsifff-wrapper .cfsifff-preview {
+	margin-top:-10px;
+}
 
 .cfsifff-chooser-helper {
 	display:inline-block;
